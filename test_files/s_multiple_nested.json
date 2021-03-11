@@ -1,0 +1,14 @@
+{
+    "a.AAA.a.TEST.a": "a",
+    "a.AAA.a.TEST.b": true,
+    "a.AAA.a.TEST.c": -12,
+    "a.AAA.a.b": "hello",
+    "a.AAA.a.c": 55,
+    "a.AAA.a.inf": "Infinity",
+    "a.AAA.b": true,
+    "a.AAA.c": true,
+    "a.b": "coco",
+    "a.c": 9999999999999999999999999999999999999999999999999999999999999,
+    "b": true,
+    "c": false
+}
