@@ -1,6 +1,6 @@
 # MongoDB-coding-challenge
 
-Here is my solution for the coding challenge
+Here is my solution for the coding challenge.
 
 ## Run the program
 
