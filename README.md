@@ -4,7 +4,9 @@ Here is my solution for the coding challenge
 
 The program can be used with the command:
 
-'''cat PATH_TO_FILE.json | python3 program_mongo_db_json.py'''
+```shell
+cat PATH_TO_FILE.json | python3 program_mongo_db_json.py
+```
 
 when the terminal is the same folder as program_mongo_db_json.py.
 
@@ -14,6 +16,8 @@ It is also possible to add new json files by adding it in the folder "test_files
 
 To run the file that do check all the json test files in the "test_files" folder, just run the command:
 
-'''python3 testing_program.py'''
+```shell
+python3 testing_program.py
+```
 
 I kept the program simple without adding specific features as it was not required.
